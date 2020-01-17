@@ -1,3 +1,5 @@
+![](https://travis-ci.com/phillrog/flutter_google_maps_app.svg?branch=master)
+
 # Flutter Google Maps App
 
 Google maps com flutter
